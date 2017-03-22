@@ -7,5 +7,5 @@ Deep Neural Networks (DNN) have recently received great attention due to their s
 ## Results
 In this study, we propose a new strategy to reduce over-fitting in training DNN for imbalanced classification based on weight selection. In training DNN, by splitting the original training set into two subsets, one used for training to update weights, and the other for validation to select weights, the weights that render the best performance in the validation set would be selected. To our knowledge, it is the first systematic study to examine a weight-selection strategy on training DNN for imbalanced classification. Demonstrated by experiments on 10 imbalanced datasets obtained from MNIST, the DNN trained by our new strategy outperformed the DNN trained by a standard strategy and the DNN trained by cost-sensitive learning with statistical significance (p=0.00512). Surprisingly, the DNN trained by our new strategy was trained on 20% less training images, corresponding to 12,000 less training images, but still achieved an outperforming performance in all 10 imbalanced datasets.
 
-## Experiments
+## Overview
 <p align="center"><img width=60% src="https://github.com/antoniosehk/WSDeepNN/blob/master/content/overview.png"></p>
