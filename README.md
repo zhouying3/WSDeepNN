@@ -13,4 +13,8 @@ DNN with 3 hidden layers were trained to classify if a digit image pertains to t
 
 ## Requirement
 * [Keras](https://keras.io)
-* [Recurrent Shop](https://www.github.com/farizrahman4u/recurrentshop)
+
+## Execution
+```python
+pip install clairvoyant
+```
