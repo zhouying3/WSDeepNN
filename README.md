@@ -18,3 +18,5 @@ DNN with 3 hidden layers were trained to classify if a digit image pertains to t
 ```python
 THEANO_FLAGS="device=gpu0,floatX=float32" python WSDeepNN.py
 ```
+## Publication
+* Sze-To, A., & Wong, A. K. (2017, July). A Weight-Selection Strategy on Training Deep Neural Networks for Imbalanced Classification. In International Conference Image Analysis and Recognition (ICIAR). 
