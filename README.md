@@ -20,7 +20,7 @@ DNN with 3 hidden layers were trained to classify if a digit image pertains to t
 <p align="center"><img width=60% src="https://github.com/antoniosehk/WSDeepNN/blob/master/content/table_3.png"></p>
 
 ## Requirement
-* [Keras](https://keras.io)
+* [Keras 1.2.2](https://keras.io)
 
 ## Execution
 ```python
