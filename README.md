@@ -12,7 +12,7 @@ In this study, we propose a new strategy to reduce over-fitting in training DNN 
 DNN with 3 hidden layers were trained to classify if a digit image pertains to the -ve class (minority) or +ve class (majority) on 10 imbalanced datasets obtained from MNIST. b) An illustration of the standard strategy, where the DNN is trained on the entire training set to update weights. c) An illustration of the proposed strategy, where the original training set is split into two subsets, one for training to update weights and the other for weight selection. The weights which obtain the best performance on the validation set would be selected.
 
 ## Materials
-<p align="center"><img width=60% src="https://github.com/antoniosehk/WSDeepNN/blob/master/content/table_1.png"></p>
+<p align="center"><img width=60% src="https://github.com/antoniosehk/WSDeepNN/blob/master/content/table_1_new.png"></p>
 
 ## Performance
 <p align="center"><img width=60% src="https://github.com/antoniosehk/WSDeepNN/blob/master/content/table_2.png"></p>
