@@ -23,6 +23,7 @@ DNN with 3 hidden layers were trained to classify if a digit image pertains to t
 * [Keras 1.2.2](https://keras.io)
 
 ## Execution
+To run the Deep NN:
 ```python
 THEANO_FLAGS="device=gpu0,floatX=float32" python WSDeepNN.py
 ```
