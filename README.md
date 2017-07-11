@@ -21,6 +21,7 @@ DNN with 3 hidden layers were trained to classify if a digit image pertains to t
 
 ## Requirement
 * [Keras 1.2.2](https://keras.io)
+* [scikit-learn 0.18.2](http://scikit-learn.org/stable/index.html)
 
 ## Execution
 To run the Deep Neural Network:
