@@ -32,8 +32,8 @@ To run the other machine learning methods:
 ```python
 python MLModel.py
 ```
-## Slides
-[Download here](http://scikit-learn.org/stable/index.html)
+## Presentation
+[Download here](https://github.com/antoniosehk/WSDeepNN/blob/master/A%20Weight-Selection%20Strategy%20on%20Training%20Deep%20Neural%20Networks.pdf)
 
 ## Publication
 * Sze-To, A., & Wong, A. K. (2017, July). A Weight-Selection Strategy on Training Deep Neural Networks for Imbalanced Classification. In International Conference Image Analysis and Recognition (ICIAR). 
