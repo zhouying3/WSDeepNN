@@ -32,7 +32,7 @@ To run the other machine learning methods:
 ```python
 python MLModel.py
 ```
-## Presentation Slides
+## Slides
 [Download here](http://scikit-learn.org/stable/index.html)
 
 ## Publication
